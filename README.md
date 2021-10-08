@@ -5,9 +5,8 @@ Im a 19 year old cyber security student who codes for fun. I won't post much on 
 
 ## Programming Skills
 
-- Python2
 - Python3
-- Golang(re-learning rn)
+- Golang
 - C (re-learning rn)
 - html/css/js (don't really like web design but I can do it)
 
